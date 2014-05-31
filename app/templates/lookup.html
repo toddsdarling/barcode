@@ -1,0 +1,41 @@
+<div id="lookUp">
+
+	<form id="lookUpForm" name="searchForm" method="post" action="#lookUp">
+		
+		<h1>Find your barcode</h1>
+		
+		<p>Please enter your name and date of birth to find your barcode. </p>
+			
+		<p><label for="fname">First name:</label><input id="userFName" type="text" class="required input-small" name="fname" value="<%= fname %>" /></p>
+				
+		<p><label for="lname">Last name:</label><input id="userLname" type="text" class="required input-medium" name="lname" value="<%= lname %>" /></p> 
+	
+		<label for="dob">Date of Birth (mm/dd/yyyy):</label>
+        
+        <div class="row collapse">
+	        <div class="small-12 columns collapse-left">            
+	            <input class="userDobMonth inline" type="text" size="2" type="number" maxlength="2" placeholder="MM" name="dobMonth" value="<%= dobMonth %>" />&nbsp;/&nbsp;                    
+	            <input class="userDobDay inline" type="text" size="2" type="number" maxlength="2" placeholder="DD" name="dobDay" value="<%= dobDay %>" /> &nbsp;/&nbsp;                                  
+	            <input class="userDobYear inline" type="text" size="4" type="number" maxlength="4" placeholder="YYYY" name="dobYear" value="<%= dobYear %>" />                   
+	        </div>		
+        </div>
+
+		<input type="submit" value="Find my barcode" id="lookUpBtn" class="button radius medium" />		
+
+	</form>
+	
+	<!-- Modal -->
+	<div id="errorModal" class="reveal-modal" data-reveal data-reveal-id="errorModal">
+	  <h2>Oops.</h2>	  
+	  <p>It looks like you forgot some information. Please complete the fields marked in red.</p>
+	  <a class="close-reveal-modal">&#215;</a>
+	</div>
+
+
+	<div id="progressModal" class="reveal-modal" data-reveal data-reveal-id="progressModal">	  
+	  <p>We're looking up your barcode, one moment please.</p>
+	  <a class="close-reveal-modal">&#215;</a>
+	  <p align="center" class="throbber">Loading...</p>
+	</div>
+
+</div>

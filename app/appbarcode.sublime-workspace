@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"barCodeIm",
+				"barCodeImageString"
+			],
+			[
+				"display",
+				"displayBarCode"
+			],
+			[
+				"bar",
+				"barCodeImageString"
+			],
+			[
+				"sing",
+				"singleMatch"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"pers",
+				"personID"
+			],
+			[
+				"lookUp",
+				"lookUpSuccess"
+			],
+			[
+				"user",
+				"userdob"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"update",
+				"updatedPersonObj"
+			],
+			[
+				"filter",
+				"filteredResults"
+			],
+			[
+				"this",
+				"thisModel"
+			],
+			[
+				"look",
+				"lookUpForm"
+			],
+			[
+				"mod",
+				"modelData"
+			],
+			[
+				"B",
+				"barCode"
+			],
+			[
+				"current",
+				"currentStep"
+			],
+			[
+				"Child",
+				"Children"
+			],
+			[
+				"mo",
+				"Model"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"ki",
+				"kckiosk-screen"
+			],
+			[
+				"k",
+				"kckiosk-screen"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"ii",
+				"instructions"
+			],
+			[
+				"fo",
+				"foundation-icons"
+			],
+			[
+				"main",
+				"main-screen"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"curre",
+				"currentTimestamp"
+			],
+			[
+				"move",
+				"moveupTime"
+			],
+			[
+				"sat",
+				"saturdayBefore"
+			],
+			[
+				"cure",
+				"currentYear"
+			],
+			[
+				"se",
+				"sessionDate"
+			],
+			[
+				"fil",
+				"filteredResults"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2385,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/AppBarCode/dist/index.html",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/AppBarCode/app/testpage.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/AppBarCode/app/1234567890.png",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/AppBarCode/app/lib/class/BCGFont.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/AppBarCode/app/images/barcodeimg/47243611.png",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/app/index.html",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/app/styles/main.scss",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/app/css/main.css",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/app/scripts/main.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/app/scripts/router.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/app/scripts/model.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/dist/css/main.css",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/dist/index.html",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/app/css/foundation-icons.css",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/app/bower_components/foundation/scss/foundation/components/_grid.scss",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/app/styles/_grid.scss",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/.bowerrc",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/KidCityKiosk/bower.json",
+		"/Applications/MAMP/htdocs/DASHBOARD/dev/bower.json",
+		"/Applications/MAMP/htdocs/DASHBOARD/dev/Gruntfile.js",
+		"/Applications/MAMP/htdocs/DASHBOARD/dev/app/index.html",
+		"/Applications/MAMP/htdocs/DASHBOARD/dev/app/js/lib/normalize-css/normalize.css",
+		"/Applications/MAMP/htdocs/DASHBOARD/dev/.bowerrc",
+		"/Applications/MAMP/htdocs/DASHBOARD/dev/.editorconfig",
+		"/Applications/MAMP/htdocs/HOPEWEB/FacebookHouseRules/index.html",
+		"/Applications/MAMP/htdocs/HOPEWEB/FacebookHouseRules/css/style.css",
+		"/Users/tdarling/Library/Caches/TemporaryItems/Transmit/.tmp_jciyag/global.css",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/MSCheckIn/lib/controller.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/MSCheckIn/lib/FellowshipOne.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/MSNewStudent/lib/controller.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/MSNewStudent/js/router.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/MSNewStudent/test.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/MSNewStudent/lib/FellowshipOne.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/MSNewStudent/js/views.js",
+		"/Users/tdarling/Library/Caches/TemporaryItems/Transmit/.tmp_hftjie/controller.php",
+		"/Users/tdarling/Desktop/Orders.csv",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/LeaderEquipWufoo/testPost-noSpouse.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/LeaderEquipWufoo/testPost.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/LeaderEquipWufoo/script.php",
+		"/Applications/MAMP/htdocs/HOPEWEB/alphaBuild/static/stylesheets/app.css",
+		"/Applications/MAMP/htdocs/HOPEWEB/alphaBuild/static/scss/foundation.scss",
+		"/Applications/MAMP/htdocs/HOPEWEB/alphaBuild/static/bower.json",
+		"/Applications/MAMP/htdocs/HOPEWEB/alphaBuild/static/.bowerrc",
+		"/Applications/MAMP/htdocs/HOPEWEB/alphaBuild/static/index.html",
+		"/Applications/MAMP/htdocs/HOPEWEB/alphaBuild/build/sites/all/themes/hcc-globaltheme/js/libraries/jquery/package.json",
+		"/Applications/MAMP/htdocs/HOPEWEB/alphaBuild/build/sites/all/themes/hcc-globaltheme/.bowerrc",
+		"/Applications/MAMP/htdocs/HOPEWEB/alphaBuild/build/sites/all/themes/hcc-globaltheme/bower.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"usemin",
+			"images",
+			"class/",
+			"$bc",
+			"$f1Obj",
+			"\";",
+			";\n",
+			"AppBarCode",
+			"arrow",
+			"copy",
+			"foundation",
+			"-->\n",
+			"/styles/",
+			"/scripts/",
+			"www.myschoolmoney.com",
+			"var_dump",
+			"max-device-width",
+			"max-device-with",
+			"min-width"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true
+}
